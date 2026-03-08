@@ -33,7 +33,7 @@ Analyzes authentication activity such as:
 
 ## SOC Dashboard
 
-![SOC Dashboard](screenshots/LibraShieldDetection)
+![SOC Dashboard](screenshots/librashield_soc_dashboard.png)
 
 ---
 
